@@ -1,1 +1,17 @@
-# TwitterClone_php
+# TwitterClone（ツイッタークローン）
+PHPでツイッターを作成しました。
+
+# 仕様技術
+- HTML
+- CSS
+- PHP
+- JavaScript
+
+# 機能一覧
+- 投稿機能
+    - 画像投稿
+- ログイン機能
+- いいね機能
+- コメント機能
+- フォロー機能
+- 検索機能
